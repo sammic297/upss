@@ -1,4 +1,4 @@
-<?php 
+ <?php 
 	//Hello
 	$sessionId = $_POST["sessionId"];
 	$serviceCode = $_POST["serviceCode"];
